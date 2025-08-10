@@ -3,7 +3,7 @@ package com.challenges;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-class Challenge01StringReverserTest {
+class Challenge01_StringReverserTest {
 
     private final Challenge01_StringReverser reverser = new Challenge01_StringReverser();
 

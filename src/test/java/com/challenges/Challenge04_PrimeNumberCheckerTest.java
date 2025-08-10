@@ -3,7 +3,7 @@ package com.challenges;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-class Challenge04PrimeNumberCheckerTest {
+class Challenge04_PrimeNumberCheckerTest {
 
     private final Challenge04_PrimeNumberChecker checker = new Challenge04_PrimeNumberChecker();
 
