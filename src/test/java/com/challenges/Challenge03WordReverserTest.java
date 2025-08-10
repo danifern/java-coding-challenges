@@ -3,9 +3,9 @@ package com.challenges;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-class WordReverserTest {
+class Challenge03WordReverserTest {
 
-    private final WordReverser wordReverser = new WordReverser();
+    private final Challenge03_WordReverser wordReverser = new Challenge03_WordReverser();
 
     @Test
     void testReverseMultipleWords() {

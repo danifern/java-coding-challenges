@@ -1,6 +1,6 @@
 package com.challenges;
 
-public class ArrayReverser {
+public class Challenge02_ArrayReverser {
 
     /**
      * DESAFÍO 2: Invertir un Array

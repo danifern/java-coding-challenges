@@ -3,9 +3,9 @@ package com.challenges;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-class PrimeNumberCheckerTest {
+class Challenge04PrimeNumberCheckerTest {
 
-    private final PrimeNumberChecker checker = new PrimeNumberChecker();
+    private final Challenge04_PrimeNumberChecker checker = new Challenge04_PrimeNumberChecker();
 
     @Test
     void testLargePrime() {

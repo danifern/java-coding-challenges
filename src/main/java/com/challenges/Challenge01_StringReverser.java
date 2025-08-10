@@ -1,6 +1,6 @@
 package com.challenges;
 
-public class StringReverser {
+public class Challenge01_StringReverser {
 
     /**
      * DESAFÍO 1: Invertir un String

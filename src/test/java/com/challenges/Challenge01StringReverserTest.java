@@ -3,9 +3,9 @@ package com.challenges;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-class StringReverserTest {
+class Challenge01StringReverserTest {
 
-    private final StringReverser reverser = new StringReverser();
+    private final Challenge01_StringReverser reverser = new Challenge01_StringReverser();
 
     @Test
     void testReverseSimpleWord() {

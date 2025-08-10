@@ -1,6 +1,6 @@
 package com.challenges;
 
-public class PrimeNumberChecker {
+public class Challenge04_PrimeNumberChecker {
 
     /**
      * CHALLENGE 4: Prime Number

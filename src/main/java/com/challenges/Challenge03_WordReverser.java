@@ -1,6 +1,6 @@
 package com.challenges;
 
-public class WordReverser {
+public class Challenge03_WordReverser {
 
     /**
      * DESAFÍO 3: Invertir el orden de las palabras

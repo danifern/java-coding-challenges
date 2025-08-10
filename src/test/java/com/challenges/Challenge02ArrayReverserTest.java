@@ -3,9 +3,9 @@ package com.challenges;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-class ArrayReverserTest {
+class Challenge02ArrayReverserTest {
 
-    private final ArrayReverser reverser = new ArrayReverser();
+    private final Challenge02_ArrayReverser reverser = new Challenge02_ArrayReverser();
 
     @Test
     void testReverseOddNumberOfElements() {
